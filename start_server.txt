@@ -7,6 +7,7 @@
     python -m django --version
         or
     python3 -m django --version
+    
 [*] Start Sever :
     python manage.py runserver
         or
