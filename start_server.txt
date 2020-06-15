@@ -7,6 +7,10 @@
     python -m django --version
         or
     python3 -m django --version
+    
+[*] goto to the directory (Log_Off) :
+    cd Log_Off [if ure dumb let me be ur teacher ;)]
+
 [*] Start Sever :
     python manage.py runserver
         or
